@@ -28,3 +28,9 @@ This guide will walk you through the process of embedding a 3D design from Splin
 
 ## Conclusion
 By following these steps, you can successfully embed a Spline 3D design into your Framer project, enhancing the visual experience with interactive elements. Feel free to customize the design further within Framer to match your project's aesthetic.
+
+
+
+
+https://github.com/user-attachments/assets/ca420437-f77d-44ee-a060-d9d2262c3520
+
